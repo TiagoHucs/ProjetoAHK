@@ -1,0 +1,2 @@
+run notepad++
+msgbox fim
